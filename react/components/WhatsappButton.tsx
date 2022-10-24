@@ -44,8 +44,8 @@ WhatsappButton.defaultProps = {
   logo: 'mi-logo.png',
   phone: '3244134762',
   message: 'Estas comunicandote con Sony clone',
-  width: 80,
-  height: 80,
+  width: 70,
+  height: 70,
 }
 
 WhatsappButton.schema = {
